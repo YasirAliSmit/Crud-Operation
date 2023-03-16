@@ -1,0 +1,61 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "stuname": "Yasirraza",
+      "email": "yasir.raza@gmail.com",
+      "": "yasir.ali@gmail.comf"
+    },
+    {
+      "id": 3,
+      "stuname": "AbdulGhani",
+      "email": "ghani.ali@gmail.com"
+    },
+    {
+      "id": 4,
+      "stuname": "Abdul",
+      "email": "abdul.ali@gmail.com"
+    },
+    {
+      "stuname": "name",
+      "email": "names@gmail.com",
+      "id": 6
+    },
+    {
+      "stuname": "nope",
+      "email": "03243375002",
+      "id": 9
+    },
+    {
+      "stuname": "Naqvis",
+      "email": "yasir.alissss75404@gmail.com",
+      "id": 11
+    }
+  ],
+  "techer": [
+    {
+      "id": "1",
+      "Amna": "amna@gmail.com",
+      "subject": "Math",
+      "Email": "amna@gmail.com"
+    },
+    {
+      "id": "2",
+      "Amna": "ayesha@gmail.com",
+      "subject": "Account",
+      "Email": "ayesha@gmail.com"
+    },
+    {
+      "id": "3",
+      "Amna": "zunra@gmail.com",
+      "subject": "English",
+      "Email": "zunra@gmail.com"
+    },
+    {
+      "id": "4",
+      "Amna": "asma@gmail.com",
+      "subject": "Acca",
+      "Email": "asma@gmail.com"
+    }
+  ]
+}
